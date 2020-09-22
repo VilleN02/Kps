@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="kps.app" version="1.0.0">
+  <name>Kps</name>
+  <description>
+    Kivi paperi sakset peli
+  </description>
+  <author email="ville.niemi2@edu.vaasa.fi" href="http://vamia.fi">
+    TUL
+  </author>
+</widget>
